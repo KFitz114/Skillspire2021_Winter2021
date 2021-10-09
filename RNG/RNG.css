@@ -1,0 +1,37 @@
+html {
+    background-color: gray;
+}h1 {
+    color: black;
+    border: solid black 4px;
+    padding: 70px;
+}
+h3 {
+    color: black;
+}
+#welcome {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#instructions {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 40px;
+}
+#button {
+    border: black solid 2px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 8px;
+}
+#guide {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#id {
+    border: black solid  2 px;
+    padding: 5px;
+}
