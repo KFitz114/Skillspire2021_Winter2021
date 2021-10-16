@@ -1,9 +1,14 @@
 html {
-    background-color: gray;
-}h1 {
+    height: 100%; width: 100%; padding: 0; Margin: 0;
+}
+body{
+height: 100%; width: 100%; padding: 0; Margin: 0; background-image: linear-gradient(45deg, green, blue);
+}
+h1 {
     color: black;
     border: solid black 4px;
     padding: 70px;
+    background-color: gray;
 }
 h3 {
     color: black;
@@ -20,11 +25,9 @@ h3 {
     padding: 40px;
 }
 #button {
-    border: black solid 2px;
     display: flex;
     justify-content: center;
     align-content: center;
-    padding: 8px;
 }
 #guide {
     display: flex;
@@ -34,4 +37,51 @@ h3 {
 #id {
     border: black solid  2 px;
     padding: 5px;
+}
+#response {
+    border: solid black 2px;
+    background-color: gray;;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin: 5px;
+    width: 50%;
+    height: 5%;
+    align-content: center;
+    justify-content: center;
+}
+#score {
+    border: solid black 2px;
+    background-color: gray;
+    display: flex;
+    flex-grow: 2;
+    margin: 5px;
+    width: 50%;
+    height: 5%;
+    align-content: center;
+    justify-content: center;
+}
+#attempts {
+    border: solid black 2px;
+    background-color: gray;
+    display: flex;
+    flex-grow: 2;
+    margin: 5px;
+    width: 50%;
+    height: 5%;
+    align-content: center;
+    justify-content: center;
+}
+#reset {
+    border: black solid 2px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 8px;
+    
+}
+#resetbutton {
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
