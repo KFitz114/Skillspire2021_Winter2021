@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Skillspire2021_Winter2021/static/css/main.a4e88c43.chunk.css",
+    "main.js": "/Skillspire2021_Winter2021/static/js/main.9ff2a2d2.chunk.js",
+    "main.js.map": "/Skillspire2021_Winter2021/static/js/main.9ff2a2d2.chunk.js.map",
+    "runtime-main.js": "/Skillspire2021_Winter2021/static/js/runtime-main.6ef2f3b9.js",
+    "runtime-main.js.map": "/Skillspire2021_Winter2021/static/js/runtime-main.6ef2f3b9.js.map",
+    "static/js/2.ea08e946.chunk.js": "/Skillspire2021_Winter2021/static/js/2.ea08e946.chunk.js",
+    "static/js/2.ea08e946.chunk.js.map": "/Skillspire2021_Winter2021/static/js/2.ea08e946.chunk.js.map",
+    "static/js/3.60b33cf5.chunk.js": "/Skillspire2021_Winter2021/static/js/3.60b33cf5.chunk.js",
+    "static/js/3.60b33cf5.chunk.js.map": "/Skillspire2021_Winter2021/static/js/3.60b33cf5.chunk.js.map",
+    "index.html": "/Skillspire2021_Winter2021/index.html",
+    "static/css/main.a4e88c43.chunk.css.map": "/Skillspire2021_Winter2021/static/css/main.a4e88c43.chunk.css.map",
+    "static/js/2.ea08e946.chunk.js.LICENSE.txt": "/Skillspire2021_Winter2021/static/js/2.ea08e946.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef2f3b9.js",
+    "static/js/2.ea08e946.chunk.js",
+    "static/css/main.a4e88c43.chunk.css",
+    "static/js/main.9ff2a2d2.chunk.js"
+  ]
+}
