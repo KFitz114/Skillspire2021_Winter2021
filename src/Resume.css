@@ -1,0 +1,58 @@
+.flex   {
+    background-color: black;
+    color: steelblue;
+    display: flex;
+    flex-direction: column;
+}
+h6{
+    font-size: 10px;
+}
+.title  {
+    border: steelblue solid 6px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(45deg, steelblue, black);
+}
+.personal-info  {
+    border: steelblue solid 2px;
+    font-size: 20px;
+    flex-grow: 6;
+    padding: 1px;
+    flex: wrap;
+    flex: 200px;
+    text-align-last: center;
+    justify-content: center;
+}
+.objectives {
+    border: steelblue solid 2px;
+    padding: 1px;
+    flex: wrap;
+    flex: 100px;
+    align-self: left;
+    justify-content: left;
+}
+
+.about-me   {
+    border: steelblue solid 2px;
+    padding: 1px; 
+    flex: wrap;
+    flex: 100px;
+    align-self: left;
+    justify-content: left;
+}
+.experience {
+    border: steelblue solid 2px;
+    flex: wrap;
+    flex: 100px;
+    align-self: left;
+    justify-content: left;
+
+}
+.education{
+    border: steelblue solid 2px;
+    flex: wrap;
+    flex: 100px;
+    align-self: left;
+    justify-content: left;
+}
